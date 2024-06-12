@@ -1,0 +1,551 @@
+{
+    "perguntas": [
+        {
+            "pei_codigo": 1967,
+            "descricao": "Quais as melhorias obtidas em sua vida profissional após a conclusão da graduação?",
+            "tipoPergunta": "CheckboxList",
+            "ehExibida": true,
+            "orientacaoAlternativa": "vertical",
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3080,
+                    "descricao": "Aumento salarial",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3081,
+                    "descricao": "Promoção no emprego",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3082,
+                    "descricao": "Novo trabalho na área de formação",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3083,
+                    "descricao": "Novo trabalho em área diferente da de formação",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3084,
+                    "descricao": "Aprovação em concurso público",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3085,
+                    "descricao": "Viabilidade para empreender",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3086,
+                    "descricao": "Não houve mudança em minha vida profissional",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3087,
+                    "descricao": "Outro",
+                    "marcado": false,
+                    "ehComposta": true,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1968,
+            "descricao": "A graduação permitiu que eu me diferenciasse no mercado de trabalho.",
+            "tipoPergunta": "RadiobuttonList",
+            "ehExibida": true,
+            "orientacaoAlternativa": "horizontal",
+            "imagem": "../images/satisfacao-pesquisa-egresso.png",
+            "alternativas": [
+                {
+                    "pal_codigo": 3088,
+                    "descricao": "1",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3089,
+                    "descricao": "2",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3090,
+                    "descricao": "3",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3091,
+                    "descricao": "4",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3092,
+                    "descricao": "5",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1969,
+            "descricao": "Na escala informada, qual é o principal motivo da sua escolha?",
+            "tipoPergunta": "TextBox",
+            "ehExibida": true,
+            "perguntaDependente": 1968,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3093,
+                    "descricao": "Na escala informada, qual é o principal motivo da sua escolha?",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                    
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1970,
+            "descricao": "A graduação atendeu/superou as minhas expectativas.",
+            "tipoPergunta": "RadiobuttonList",
+            "ehExibida": true,
+            "orientacaoAlternativa": "horizontal",
+            "imagem": "../images/satisfacao-pesquisa-egresso.png",
+            "alternativas": [
+                {
+                    "pal_codigo": 3094,
+                    "descricao": "1",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3095,
+                    "descricao": "2",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3096,
+                    "descricao": "3",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3097,
+                    "descricao": "4",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3098,
+                    "descricao": "5",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1971,
+            "descricao": "Na escala informada, qual é o principal motivo da sua escolha?",
+            "tipoPergunta": "TextBox",
+            "ehExibida": true,
+            "orientacaoAlternativa": "horizontal",
+            "perguntaDependente": 1970,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3100,
+                    "descricao": "Na escala informada, qual é o principal motivo da sua escolha?",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1972,
+            "descricao": "Quais foram as principais dificuldades enfrentadas ao ingressar no mercado de trabalho?",
+            "tipoPergunta": "CheckboxList",
+            "ehExibida": true,
+            "orientacaoAlternativa": "vertical",
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3101,
+                    "descricao": "Falta de experiência profissional",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3102,
+                    "descricao": "Falta de oportunidade na área",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3103,
+                    "descricao": "Falta de habilidades e/ou conhecimentos específicos exigidos pelo mercado",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3104,
+                    "descricao": "Diferença entre formação acadêmica x mercado de trabalho",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3105,
+                    "descricao": "Expectativas irrealistas",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3106,
+                    "descricao": "Outro",
+                    "marcado": false,
+                    "ehComposta": true,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1973,
+            "descricao": "Em sua opinião, quais são as habilidades e/ou conhecimentos que o mercado exige?",
+            "tipoPergunta": "TextBox",
+            "orientacaoAlternativa": "horizontal",
+            "ehExibida": true,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3107,
+                    "descricao": "Em sua opinião, quais são as habilidades e/ou conhecimentos que o mercado exige?",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1974,
+            "descricao": "Quais são as sugestões para a melhoria do curso?",
+            "tipoPergunta": "TextBox",
+            "orientacaoAlternativa": "horizontal",
+            "ehExibida": true,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3108,
+                    "descricao": "Quais são as sugestões para a melhoria do curso?",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1975,
+            "descricao": "Qual a sua renda bruta mensal decorrente do trabalho?",
+            "tipoPergunta": "RadiobuttonList",
+            "orientacaoAlternativa": "vertical",
+            "ehExibida": true,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3109,
+                    "descricao": "Até um salário mínimo (R$1.412,00)",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                    
+                },
+                {
+                    "pal_codigo": 3110,
+                    "descricao": "De R$ 1.412,01 à R$ 2.824,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3111,
+                    "descricao": "De R$ 2.824,01 à R$ 4.236,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3112,
+                    "descricao": "De R$ 4.236,01 à R$ 5.648,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3113,
+                    "descricao": "De R$ 5.648,01 à R$ 7.060,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3114,
+                    "descricao": "De R$ 7.060,01 à R$ 8.472,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3115,
+                    "descricao": "De R$ 8.472,01 à R$ 9.884,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3116,
+                    "descricao": "De R$ 9.884,01 à R$ 11.296,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3117,
+                    "descricao": "De R$ 11.296,01 à R$ 12.708,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3118,
+                    "descricao": "Acima de R$12.708,00",
+                    "texto": "",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1976,
+            "descricao": "Você gostaria de fazer mais formações na Toledo Prudente?",
+            "tipoPergunta": "RadiobuttonList",
+            "orientacaoAlternativa": "vertical",
+            "ehExibida": true,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3119,
+                    "descricao": "Sim",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3120,
+                    "descricao": "Não",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1977,
+            "descricao": "Você continua acessando informações da Toledo Prudente?",
+            "tipoPergunta": "RadiobuttonList",
+            "orientacaoAlternativa": "vertical",
+            "ehExibida": true,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3121,
+                    "descricao": "Sim",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": true,
+                    "perguntasVinculadas": [1978]
+                },
+                {
+                    "pal_codigo": 3122,
+                    "descricao": "Não",
+                    "marcado": false,
+                    "ehComposta": false,
+                    "texto": "",
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": [1978]
+                    
+                }
+            ]
+        },
+        {
+            "pei_codigo": 1978,
+            "descricao": "Por qual(is) meio(s) acessa as informações?",
+            "tipoPergunta": "CheckboxList",
+            "orientacaoAlternativa": "vertical",
+            "ehExibida": false,
+            "imagem": null,
+            "alternativas": [
+                {
+                    "pal_codigo": 3123,
+                    "descricao": "Instagram",
+                    "marcado": false,
+                    "texto": "",
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3124,
+                    "descricao": "Facebook",
+                    "marcado": false,
+                    "texto": "",
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3125,
+                    "descricao": "Site da Toledo",
+                    "marcado": false,
+                    "texto": "",
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3126,
+                    "descricao": "TikTok",
+                    "marcado": false,
+                    "texto": "",
+                    "ehComposta": false,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                },
+                {
+                    "pal_codigo": 3127,
+                    "descricao": "Outro",
+                    "marcado": false,
+                    "texto": "",
+                    "ehComposta": true,
+                    "liberaPergunta": false,
+                    "perguntasVinculadas": null
+                }
+            ]
+        }
+    ]
+}
